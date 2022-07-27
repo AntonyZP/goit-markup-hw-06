@@ -784,3 +784,15 @@ p {
 
 
 }
+
+.modal-form {
+display: flex;
+flex-direction: column;
+
+
+
+
+gap: 10px;
+}
+.form-label {display: block;
+margin-bottom: 4px;}
